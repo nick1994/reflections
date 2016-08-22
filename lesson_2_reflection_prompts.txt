@@ -20,4 +20,4 @@ In this chapter we are learning how to create a new repository.
 git init is the command used to initialise a folder into a git repository.
 staging area is the area where files are staged to be moved to commit or to the git repository.
 git add and then git commit it.
-
+there is some change to be made in this file about commit size that's what is the line is about.
