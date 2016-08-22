@@ -22,3 +22,5 @@ staging area is the area where files are staged to be moved to commit or to the 
 git add and then git commit it.
 there is some change to be made in this file about commit size that's what is the line is about.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+the branches are created whenever we need to start something new. ...they allow us to work on different feature at a time ....not only that the feature which is in production mode and it is not yet completed we can make a branch and stay working on that ....our master branch is the branch which ready for users.
+How do the diagrams help you visualize the branch structure?
