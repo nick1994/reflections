@@ -1,2 +1,4 @@
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Obviously i want the changes in gitHub to be pulled directly to my working repository but not my changes to be pushed to the gitGub.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+the clone works btw the repository on local and github repository, fork on the github repositories and the branch only on one localk 
