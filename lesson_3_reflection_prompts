@@ -1,1 +1,2 @@
-  
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Obviously i want the changes in gitHub to be pulled directly to my working repository but not my changes to be pushed to the gitGub.
