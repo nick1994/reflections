@@ -8,3 +8,7 @@ update our master branch using the merge command this way we can resolve conflic
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 This is the best course i have ever done. And after this course my git knowledge have increased significantly and it would be easiest for me to work on git and 
 github.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when i am working on some new feature and i don't know if it is final or not so, it is better to do my work without disturbing the master branch 
+and it also helps when i want to work for different features and different sub-projects at a time.
+
