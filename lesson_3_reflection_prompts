@@ -5,3 +5,6 @@ the clone works btw the repository on local and github repository, fork on the g
 What is the benefit of having a copy of the last known state of the remote stored locally?
 the benefit of having the last saved copy of the remote file in your local storage is that we can fetch the remote version on our pc from git and 
 update our master branch using the merge command this way we can resolve conflict and update our files easily.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+This is the best course i have ever done. And after this course my git knowledge have increased significantly and it would be easiest for me to work on git and 
+github.
