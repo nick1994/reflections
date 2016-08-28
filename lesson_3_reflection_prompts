@@ -2,3 +2,6 @@ Why might you want to always pull changes manually rather than having Git automa
 Obviously i want the changes in gitHub to be pulled directly to my working repository but not my changes to be pushed to the gitGub.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 the clone works btw the repository on local and github repository, fork on the github repositories and the branch only on one localk 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+the benefit of having the last saved copy of the remote file in your local storage is that we can fetch the remote version on our pc from git and 
+update our master branch using the merge command this way we can resolve conflict and update our files easily.
